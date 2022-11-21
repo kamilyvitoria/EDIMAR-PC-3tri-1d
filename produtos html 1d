@@ -1,23 +1,23 @@
 <!DOCTYPE html> 
 <html>
-<head>
-    <meta charset="UTF-8"
-<TITLE>
-    LOJA DE BRINQUEDOS PARA CACHORROS
+    <head>
+       <meta charset="UTF-8"
+       <TITLE>
+       LOJA DE BRINQUEDOS PARA CACHORROS
 </TITLE>
-
+<link rel="styleshett" href="proddutos.css">
     
 </head>
 <body>
-    <ul>
-<li> </li>    
-    
+<header>
+   <h1><img scr="logo.png"></h1>
 
-    </ul>
+<ul>
 
-
-
-
+    <li><a href="index.html">Home</a></li>
+    <li><a href="produtos.html">Produtos</a></li>
+    <li><a href="contato.html">Contato</a></li>
+</ul>
+</header>     
 </body>
-
 </html>
